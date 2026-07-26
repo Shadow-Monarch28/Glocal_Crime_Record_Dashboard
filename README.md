@@ -97,5 +97,16 @@ The raw dataset was intentionally generated with realistic messy data — mixed 
 3. Run `python_eda/crimepulse_eda.py` for exploratory visuals, then `crimepulse_kpi_calculation.py` to validate KPIs.
 4. Open `dashboard/Global_Crime_Record_Dashboard.pbix` in Power BI Desktop to explore interactively.
 
-## 📬 Contact
-Built by Abishek - [LinkedIn](https://www.linkedin.com/in/abishek28m/) | [GitHub](https://github.com/Shadow-Monarch28?tab=repositories)
+## 👤 Author
+**Abishek** | Aspiring Data Analyst | 📍 Gurgaon, India
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abishek28m/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Shadow-Monarch28?tab=repositories)
+
+---
+
+## 🏷️ Tags
+`#DataAnalytics` `#PowerBI` `#Python` `#MySQL` `#CrimeAnalytics`
+`#GeospatialAnalysis` `#DataCleaning` `#SQL` `#PublicSafety` `#DataVisualization`
+`#PortfolioProject` `#DataScience` `#BusinessIntelligence`

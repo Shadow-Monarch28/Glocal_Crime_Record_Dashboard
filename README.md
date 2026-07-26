@@ -1,4 +1,4 @@
-# Global_Crime_Record_Dashboard
+# Global_Crime_Analytics_Dashboard
 
 **End-to-end crime analytics project** covering 950,000 synthetic crime records across 7 countries (Germany, India, USA, Japan, China, Russia, Canada) from 2010 to May 2026. Built to simulate a real analyst workflow — from messy raw data through SQL cleaning, Python EDA, KPI validation, and a 5-page interactive Power BI dashboard.
 
@@ -26,8 +26,8 @@ Analyze global crime trends, severity patterns, resolution/enforcement effective
 │   ├── Global_Crime_EDA.py                   # Full EDA (9 sections, 21 visuals)
 │   └── KPI_Calculation.py        # Standalone KPI validation script
 ├── dashboard/
-│   ├── Global_Crime_Record_Dashboard.pbix             # Interactive Power BI dashboard
-│   └── Global_Crime_Record_Dashboard.pdf              # Static preview
+│   ├── Global_Crime_Analytics_Dashboard.pbix             # Interactive Power BI dashboard
+│   └── Global_Crime_Analytics_Dashboard.pdf              # Static preview
 └── README.md
 ```
 ##### Note:
@@ -95,7 +95,7 @@ The raw dataset was intentionally generated with realistic messy data — mixed 
 1. Run `data_generation/crimepulse_generate_and_export.py` (requires MySQL + SQLAlchemy) to generate and load the raw star schema.
 2. Run the SQL scripts in `sql/` sequentially to clean and impute.
 3. Run `python_eda/crimepulse_eda.py` for exploratory visuals, then `crimepulse_kpi_calculation.py` to validate KPIs.
-4. Open `dashboard/Global_Crime_Record_Dashboard.pbix` in Power BI Desktop to explore interactively.
+4. Open `dashboard/Global_Crime_Analytics_Dashboard.pbix` in Power BI Desktop to explore interactively.
 
 ## 👤 Author
 **Abishek** | Aspiring Data Analyst | 📍 Gurgaon, India
